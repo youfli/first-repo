@@ -1,1 +1,130 @@
 bonjour
+<!DOCTYPE html>
+<html>
+    <HEAD>
+        <meta charset="checkpoint html" />
+		<link rel="stylesheet" href="./csslayout.css"/>
+		<meta name="viewport" content="width=, initial-scale=" />
+        <Title>MY PORTFOLIO</Title>
+    </HEAD>
+    <body>
+       <header class="flex-container">
+           <nav>
+            <h1 class="inline-block">My Portfolio</h1>
+                <ul class="inline-block">
+                    <li><a href="#Home"> Home</a></li>
+                    <li><a href="#Work"> Work</a></li>   
+                    <li><a href="#Contact Information">Contact Information</a></li>
+                    <li><a href="#About Us">About Us</a></li>
+                </ul>
+            </nav>    
+       </header>
+       <main class=>
+            <div>
+            <iframe  
+            width="560" height="315" src="https://www.youtube.com/embed/aONFNpj3tac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+            ></iframe>
+            </div> 
+            <section id="Home">
+                <div>
+                    <h1> Fund Your Project</h1>
+                </div>
+                <div>
+                    <p>If you're just starting out, you may not have much capital. You might be relying on friends and family to help fund your business venture. But eventually, you'll need more financial help to get the project off the ground.To get started, you'll want to build a budget for your project. Write down everything you think will be necessary all computer hardware and software, as well as traditional expenses such as rent and utilities. If you're doing all the work yourself, include a salary for yourself in this budget. This will give you an idea of how much money you need and what to use it for.</p>
+                </div>
+                <div>
+                    <h1>Hiring Your Employees</h1>
+                </div>
+                <div>
+                    <p>Hiring and managing employees is a big part of running a business, and it isn't easy. You have to find the right people, train them well, make sure they're happy, keep track of their performance, pay them fairly, and consider all of their needs.This is a lot to take on when you're just starting out. Besides the learning curve of finding your own employees, there are tons of hiring strategies to consider. That's why My Portolio is useful to grow to TECH company.</p>
+                </div>
+                <div>
+                    <h1>Play To Learn</h1>
+                </div>
+                <div>
+                    <p>We create custom games for your company that can take place during lunchtime or as part of a larger event. Our games are designed to bring together people from different departments like marketing, sales, engineering and management in a collaborative setting where they can learn and have fun at the same time! The winning team will be rewarded with prizes donated by local businesses such as gift cards or even getting promoted.</p>
+                </div>
+                    <h1>Collaborations Made Easier</h1>
+                </div>
+                <div>
+                    <p>My Portfolio service generates an interactive chart that displays the company's features to make collaborations easier. The service offers a unique approach to collaboration that gives users the ability to customize their collaboration depending on the nature of their projects and the type of entity they are collaborating with.</p>
+                </div>
+            </section>
+            <section id="Work">
+                <div>
+                    <h1>Work</h1>
+                </div>  
+                <div>
+                    <p>Promoting movement throughout the day: by encouraging walking meetings or even putting treadmill desks in offices!</p>
+
+                    <p>Encouraging health and wellness: by providing gym memberships and offering voluntary health insurance surcharges.</p>
+            
+                    <p>Providing healthy food options: by having healthy food available during meetings and providing nutrition education courses.</p>
+            
+                    <p>Hosting wellness activities: such as onsite yoga classes or company-wide walks."</p>
+                </div>
+            </section>
+            <section>
+                <div>
+                    <h1>Subsriptions</h1>
+                </div>
+                <div >
+                    <table class="table" border="3">
+                    <tr>
+                        <th>Basic</th>
+                        <th class="title">Recommended</th>
+                        <th>Premium</th>
+                    </tr>
+                    <tr>
+                        <td>$99</td>
+                        <td class="title">$249</td>
+                        <td>$499</td>
+                    </tr>
+                    <tr>
+                        <td>For Beginners</td>
+                        <td class="title"> For Intermediates</td>
+                        <td>For Large Companies</td>
+                    </tr>
+                    </table>
+                </div>
+            </section>
+            <section id="Contact Information">
+                <div>
+                    <h1>Contact Information</h1>
+                </div
+                    <form>
+                        <label class="title">Name:</label>
+                        <input  class="table"type="text" name="first name" placeholder="Type your name here" value="Youssef Fliss">
+                        <br />
+                        <label class="title" >Number:</label>
+                        <input  class="table"type="number" name="number" value="Enter Your Phone Number"  placeholder="94562217">
+                        <br />
+                        <label class="title">Birth Date:</label>
+                        <input  class="table"type="date" name="birthday" value="31/07/2001">
+                        <br />
+                        <label class="title">Password:</label>
+                        <input  class="table"type="password" name="password" />
+                        <br />
+                        <input class="title" class="table"type="submit" value="Submit" />
+                    </form>
+                </div>    
+            </section >
+            <section id="About Us">
+                <div>
+                    <h1>About Us</h1>
+                </div>
+                <div>
+                    <p>My Portfolio is a small company with big ambitions. We believe that the web is the future, and we believe in the power of tech companies to change the world. Our mission is to help you do exactly that, by utilizing our web development skills to help your business grow and prosper. We want to give you a cutting-edge website that can be scaled to meet all of your needs, because we know that a great website is at the heart of every successful business model.</p> 
+                </div>
+            </section> 
+            <section>
+                <h1>Give Us Your Feedback</h1>
+                <textarea class="table" name="message" cols="170" rows="5">
+                </textarea>
+            </section>
+            <section class="title">
+                <footer>©MyPortfolio@gmail.com</footer>
+            </section>
+        </main> 
+    </body>
+</html>
